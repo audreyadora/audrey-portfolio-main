@@ -7,12 +7,12 @@ function Navigation() {
         <div className="sticky overscroll-none top-0 p-4 w-full">
           <ul className="sticky flex sm:flex-col md:fixed content-center justify-between">
                 <li className="py-2 hover:bg-indigo-300 rounded">
-                    <NavLink className="nav-link" to="/">
-                        <a className="truncate" href="https://github.com/audreyadora/audrey-portfolio-main">
+                    <a className="href="https://github.com/audreyadora/audrey-portfolio-main">
+                        <a className="truncate" href="#">
                             <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/325/waving-hand_1f44b.png" className="w-7 sm:mx-2 mx-4 inline" />
                             <span className="hidden sm:inline">Welcome!</span>
                         </a>
-                    </NavLink>
+                    </a>
                 </li>
                 <li className="py-2 hover:bg-indigo-300 rounded">
                     <NavLink className="nav-link" to="/">
