@@ -1,0 +1,1 @@
+export { default as Layout_Two_Cols } from "./layout_two_cols";
