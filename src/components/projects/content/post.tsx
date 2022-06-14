@@ -14,22 +14,78 @@ function post() {
         <h1 className="mt-5">This is a Post Title</h1>
         <h6 className="mb-5">The post slug is, {postSlug}</h6>
         <p>
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
-          scrambled it to make a type specimen book.
+          I wake up
+          And the day feels broken
+          I tilt my head
+          I'm trying to get an angle
+          'Cause the evening
+          I've always longed for
+          It could still happen
         </p>
         <p>
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
-          scrambled it to make a type specimen book.
+          How do I master
+          The perfect day
+          Six glasses of water
+          Seven phone calls
+          If you leave it alone
+          It might just happen
+          Anyway
         </p>
         <p>
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
-          scrambled it to make a type specimen book.
+          It's not up to you
+          Oh it never really was
+          It's not up to you
+          Oh it never really was
+          It's not up to you
+          Well it never really was
+          It's not up to you
+        </p>
+        <p>
+          If you wake up
+          And the day feels a-broken
+          Just lean into the crack
+          (Just lean into the crack)
+          And it will tremble
+          Ever so nicely
+          Notice how it sparkles
+          Down there
+        </p>
+        <p>
+          I can decide
+          What I give
+          But it's not up to me
+          What I get given
+          Unthinkable surprises
+          About to happen
+          But what they are
+        </p>
+        <p>          
+          It's not up to you
+          It's not up to you
+          Well it never really was
+          It's not up to you
+          Oh it never really was
+          It's not up to you
+          Oh it never really was
+          It's not up to you
+          Oh, me, share
+          It's not up to you
+          It's not up to you
+          It's not up to you
+          Oh, it never really was
+          It's not up to you
+          Well it never really was
+          It's not up to you
+          It's not up to you
+          It's not up to you
+          It's not up to you
+        </p>
+        <p>
+          There's too much
+          Clinging
+          To peak
+          There's too much
+          Pressure
         </p>
       </div>
     </div>
